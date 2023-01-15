@@ -1,4 +1,4 @@
-# Módulo de almacenamiento de credenciales
+# Módulo de almacenamiento de credenciales polybar
 
 ![](images/polybar.png)
 
