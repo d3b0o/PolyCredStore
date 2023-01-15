@@ -72,8 +72,8 @@ function clearuser2(){
 ## Archivos
 
 ```
-mv copyuser1_pass.sh copyuser2_pass.sh copyuser1_user.sh copyuser2_user.sh user1.sh user2.sh ~/.config/bin/
 chmod +x copyuser1_pass.sh copyuser2_pass.sh copyuser1_user.sh copyuser2_user.sh user1.sh user2.sh
+mv copyuser1_pass.sh copyuser2_pass.sh copyuser1_user.sh copyuser2_user.sh user1.sh user2.sh ~/.config/bin/
 ```
 
 ## Modulos Polybar
